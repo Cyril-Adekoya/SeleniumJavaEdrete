@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -7,14 +10,54 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be6e6d8b-0aed-4301-9290-1b3f8e02e60a" name="Default Changelist" comment="" />
+    <list default="true" id="d2491b30-700a-4dc7-b56e-866557e7d7d9" name="Default Changelist" comment="EdreteAutomation">
+      <change beforePath="$PROJECT_DIR$/.idea/SeleniumJavaEdrete.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumJavaEdrete.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Cyril-Adekoya &lt;64660705+cyril-adekoya@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -26,39 +69,499 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1kiJhGyZoYMhzkX8H6JvxAnD0zO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1hlQZnNN9YR13MZgP3GsjEaKYVn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CyrilFramework/testng.xml" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="TestRunner" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/StepDefinitions/Edurete" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.CyrilFramework" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.CyrilFramework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\CyrilPrepMajor\test-output\CucumberReport" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="TestRunner" />
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunnerEdu">
+    <configuration name="Feature: Edurete" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Edurete.feature" />
+      <option name="GLUE" value="StepDefinitionEdurete" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="PrepMajorProject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <shortenClasspath name="MANIFEST" />
+      <option name="SUGGESTED_NAME" value="Feature: Edurete" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Search present of Website with google" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/EduFunctionalTest.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="PrepMajorProject" />
+      <option name="NAME_FILTER" value="^Search present of Website with google$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Search present of Website with google$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search present of Website with google" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="GLUE" value="StepDefinition" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerEdu" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SeleniumJavaEdrete" />
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunnerEdu" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerLongRichway" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="PrepMajorProject" />
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunnerLongRichway" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerPrepMajor" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="PrepMajorProject" />
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunnerPrepMajor" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyrilPrepMajor [clean]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/User/IdeaProjects/CyrilPrepMajor/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="CyrilPrepMajor" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\User\IdeaProjects\CyrilPrepMajor\test-output\Default Suite" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties>
+        <property name="" value="" />
+      </properties>
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\User\IdeaProjects\CyrilPrepMajor\test-output\Default Suite" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties>
+        <property name="" value="" />
+      </properties>
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.TestHTMLReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\User\IdeaProjects\CyrilPrepMajor\test-output\Default Suite" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties>
+        <property name="" value="" />
+      </properties>
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: Edurete" />
+      <item itemvalue="Cucumber Java.Scenario: Search present of Website with google" />
+      <item itemvalue="JUnit.TestRunnerEdu" />
+      <item itemvalue="JUnit.TestRunnerLongRichway" />
+      <item itemvalue="JUnit.TestRunnerPrepMajor" />
+      <item itemvalue="Maven.CyrilPrepMajor [clean]" />
+      <item itemvalue="TestNG.C:/Users/User/IdeaProjects/CyrilPrepMajor/testng.xml" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Search present of Website with google" />
+        <item itemvalue="Cucumber Java.Feature: Edurete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="be6e6d8b-0aed-4301-9290-1b3f8e02e60a" name="Default Changelist" comment="" />
-      <created>1606177597292</created>
+      <changelist id="d2491b30-700a-4dc7-b56e-866557e7d7d9" name="Default Changelist" comment="" />
+      <created>1600583267281</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606177597292</updated>
+      <updated>1600583267281</updated>
     </task>
+    <task id="LOCAL-00001" summary="Edurete.feature added">
+      <created>1605865155175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605865155175</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Edurete.feature added">
+      <created>1606032055684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606032055684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Edurete.feature added">
+      <created>1606045164672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606045164672</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Edurete.feature added">
+      <created>1606045363423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606045363423</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Cyril Edrete" />
+    <MESSAGE value="Edurete.feature added" />
+    <MESSAGE value="Edrete automation" />
+    <MESSAGE value="EdreteAutomation" />
+    <option name="LAST_COMMIT_MESSAGE" value="EdreteAutomation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1603723032530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1603723032530" />
+    <state x="389" y="135" key="#Log_Highlighting_(ideolog)" timestamp="1605959738218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="135" key="#Log_Highlighting_(ideolog)/0.0.1366.728@0.0.1366.728" timestamp="1605959738218" />
+    <state x="275" y="5" key="#Plugins" timestamp="1604147732980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="5" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1604147732980" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1603724203185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1603724203185" />
+    <state x="304" y="0" width="1030" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606180120628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="304" y="0" width="1030" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606180120628" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605894210799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1605894210799" />
+    <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605952984213">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605952984213" />
+    <state x="512" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604143655713">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="512" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1604143655713" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1605866966435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605866966435" />
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1605156488464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1605156488464" />
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606046992301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1606046992301" />
+    <state x="466" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605825258699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1605825258699" />
+    <state x="141" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605337262270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1605337262270" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605871763827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605871763827" />
+    <state x="441" y="223" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605288600815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="223" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1605288600815" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1605682370353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1605682370353" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1605873325835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605873325835" />
+    <state width="1323" height="224" key="GridCell.Tab.0.bottom" timestamp="1606180005925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="224" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606180005925" />
+    <state width="1323" height="224" key="GridCell.Tab.0.center" timestamp="1606180005925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="224" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606180005925" />
+    <state width="1323" height="224" key="GridCell.Tab.0.left" timestamp="1606180005925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="224" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606180005925" />
+    <state width="1323" height="224" key="GridCell.Tab.0.right" timestamp="1606180005925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="224" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606180005925" />
+    <state width="1323" height="45" key="GridCell.Tab.1.bottom" timestamp="1606031560641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="45" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606031560641" />
+    <state width="1323" height="45" key="GridCell.Tab.1.center" timestamp="1606031560641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="45" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606031560641" />
+    <state width="1323" height="45" key="GridCell.Tab.1.left" timestamp="1606031560641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="45" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606031560641" />
+    <state width="1323" height="45" key="GridCell.Tab.1.right" timestamp="1606031560641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="45" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606031560641" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1605490059952">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1605490059952" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1606179895850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606179895850" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606048253210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606048253210" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1603702690534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1603702690534" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606179787734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1606179787734" />
+    <state x="454" y="193" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603720722988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="193" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1603720722988" />
+    <state x="250" y="93" width="865" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605864471431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="250" y="93" width="865" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1605864471431" />
+    <state x="274" y="25" key="new project wizard" timestamp="1604004419728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604004419728" />
+    <state x="426" y="285" width="572" height="157" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1605873328523">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="285" width="572" height="157" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605873328523" />
+    <state x="383" y="111" key="refactoring.ChangeSignatureDialog" timestamp="1605890121033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="383" y="111" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1605890121033" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint log-message="true" log-stack="true" type="java-exception" />
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CyrilFramework$Feature__ShopOnline.ic" NAME="Feature: ShopOnline Coverage Results" MODIFIED="1603724315064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CyrilFramework$Feature__OnlineShopping.ic" NAME="Feature: OnlineShopping Coverage Results" MODIFIED="1603676070785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
   </component>
 </project>
